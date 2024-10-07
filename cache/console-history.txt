@@ -1,0 +1,7 @@
+log
+ethers.log
+log
+ethers
+ethers.getLogs
+eth.getLogs
+.help
